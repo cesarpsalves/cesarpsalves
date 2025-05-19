@@ -1,60 +1,75 @@
-# 👋 Olá, eu sou Paulo Cesar
+<h1 align="center">👋 Olá, eu sou Paulo Cesar</h1>
 
-🎓 Formado em **Administração de Redes** pela UNIBRATEC (2012)  
-🛠️ Mais de **10 anos de experiência** em infraestrutura, eletrônica básica e sistemas de segurança  
-📍 Local: **Recife - PE**
+<p align="center">
+🎓 <strong>Administrador de Redes</strong> formado pela UNIBRATEC (2012)<br>
+🛠️ Mais de <strong>10 anos de experiência</strong> em infraestrutura, segurança eletrônica e automação<br>
+📍 Baseado em <strong>Recife - PE, Brasil</strong>
+</p>
 
 ---
 
-## 💼 Sobre mim
+## 🧑‍💻 Sobre mim
 
-Sou um profissional versátil com forte atuação em redes, automação e suporte técnico. Tenho conhecimento em eletrônica básica, instalação de DVRs, alarmes, fechaduras eletrônicas e estou em constante aprendizado de novas tecnologias.
-
-Nos últimos anos, me aproximei mais do desenvolvimento de software, aplicando lógica de programação para resolver problemas reais — especialmente usando **PHP (com padrão MVC)**, **Arduino**, e mais recentemente, **Python**.
+Sou um profissional com forte atuação em redes, suporte técnico e sistemas de automação. Tenho conhecimento em eletrônica básica, instalação de DVRs, alarmes, fechaduras eletrônicas e estou em constante evolução na programação, com foco em soluções práticas usando Python, PHP e Arduino.
 
 ---
 
 ## 💼 Habilidades Técnicas
 
 ### 🔌 Redes & Infraestrutura
-- Administração de redes com mais de 10 anos de experiência
-- Estruturação de cabeamento e configuração de roteadores/switches
-- Diagnóstico de rede, suporte a usuários e manutenção de servidores
+- Administração de redes, cabeamento, servidores, switches e roteadores
+- Diagnóstico de rede e suporte técnico
 
 ### 🔐 Segurança Eletrônica
-- Instalação e manutenção de DVRs, câmeras de segurança
-- Configuração de alarmes, sensores, centrais e fechaduras eletrônicas
-- Integração de sistemas físicos com redes IP
+- Instalação de DVRs, câmeras, alarmes e fechaduras eletrônicas
+- Integração com redes IP
 
-### 🧰 Eletrônica e Automação
-- Conhecimentos em eletrônica básica
-- Programação de sistemas embarcados com **Arduino**
-- Criação de protótipos e controle de dispositivos com sensores e relés
+### 🧰 Automação e Eletrônica
+- Programação com Arduino
+- Protótipos com sensores e relés
+- Conhecimentos de eletrônica básica
 
-### 💻 Desenvolvimento Web e Lógica de Programação
-- Desenvolvimento com **PHP (estrutura MVC)**
-- Projetos com **HTML**, **CSS** e básico de **JavaScript**
-- Programação orientada a objetos com **Python** (em andamento)
-- Uso de estruturas como listas, dicionários, funções, módulos, e debug com VS Code
+### 💻 Desenvolvimento Web e Programação
+- PHP com padrão MVC
+- HTML, CSS e JavaScript (básico)
+- Python com foco em lógica, POO, módulos e debug
 
-### 🛠️ Ferramentas e Versionamento
-- Git e GitHub (com uso real em projetos)
-- VS Code / Windsurf Editor com depuração configurada
-- Familiaridade com linha de comando (Windows PowerShell, CMD, Git Bash)
+### 🛠️ Ferramentas
+- Git e GitHub (uso real em projetos)
+- VS Code / Windsurf Editor (com debug configurado)
+- Git Bash, CMD, PowerShell
 
 ---
 
-## 📚 Aprendizado em andamento
+## 🚀 Aprendizado Atual
 
-- 🐍 Curso: [Python 3 - Do Zero ao Avançado (Udemy)](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
-- Estruturação de projetos com Git e GitHub
-- Planejamento para iniciar com Flask (web back-end com Python)
+- 📘 Curso Udemy: [Python 3 - Do Zero ao Avançado](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
+- Organização de projetos no GitHub
+- Início com Flask (em breve)
 
 ---
 
-## 📂 Repositórios em destaque
+## 📂 Repositórios em Destaque
 
-- [📘 curso-python](https://github.com/cesarpsalves/curso-python) – Repositório de estudos com anotações, desafios e progresso organizado por aulas.
+- [📘 curso-python](https://github.com/cesarpsalves/curso-python) – Estudos, anotações e desafios por aula.
+
+---
+
+## 🔧 Tecnologias que uso
+
+<h2 align="center">🚀 Tecnologias</h2>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="60" alt="Arduino" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="VS Code" />
+</p>
 
 ---
 
@@ -66,5 +81,5 @@ Nos últimos anos, me aproximei mais do desenvolvimento de software, aplicando l
 
 ## ✉️ Contato
 
-- 📧 Email: paulo.agoravai@gmail.com  
-- 📍 Localização: Recife - PE
+📧 **Email:** paulo.agoravai@gmail.com  
+📍 **Localização:** Recife - PE, Brasil
