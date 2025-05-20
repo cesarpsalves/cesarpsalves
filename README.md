@@ -49,13 +49,17 @@ Sou um profissional com forte atuação em redes, suporte técnico e sistemas de
 
 ---
 
+## 📊 Progresso Visual
+
+![Progresso do curso](https://geps.dev/progress/25)
+
+---
+
 ## 📂 Repositórios em Destaque
 
 - [📘 curso-python](https://github.com/cesarpsalves/curso-python) – Estudos, anotações e desafios por aula.
 
 ---
-
-## 🔧 Tecnologias que uso
 
 <h2 align="center">🚀 Tecnologias</h2>
 
