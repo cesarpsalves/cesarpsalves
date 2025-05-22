@@ -1,89 +1,59 @@
-<h1 align="center">👋 Olá, eu sou Paulo Cesar</h1>
+# Paulo Cesar da Silva Alves
 
-<p align="center">
-🎓 <strong>Administrador de Redes</strong> formado pela UNIBRATEC (2012)<br>
-🛠️ Mais de <strong>10 anos de experiência</strong> em infraestrutura, segurança eletrônica e automação<br>
-📍 Baseado em <strong>Recife - PE, Brasil</strong>
-</p>
+**Administrador de Redes • Infraestrutura • Automação • VBA Excel • Segurança Eletrônica**
 
----
-
-## 🧑‍💻 Sobre mim
-
-Sou um profissional com forte atuação em redes, suporte técnico e sistemas de automação. Tenho conhecimento em eletrônica básica, instalação de DVRs, alarmes, fechaduras eletrônicas e estou em constante evolução na programação, com foco em soluções práticas usando Python, PHP e Arduino.
+📍 Recife - PE, Brasil  
+📧 pca_paulo@hotmail.com
 
 ---
 
-## 💼 Habilidades Técnicas
+## Perfil Profissional
 
-### 🔌 Redes & Infraestrutura
-- Administração de redes, cabeamento, servidores, switches e roteadores
-- Diagnóstico de rede e suporte técnico
+Profissional com mais de 10 anos de experiência em infraestrutura de redes, segurança eletrônica e suporte técnico. Atuação sólida em ambientes corporativos, realizando administração de redes, implantação de sistemas de automação, instalação de dispositivos de segurança e desenvolvimento de soluções práticas para otimização de processos.
 
-### 🔐 Segurança Eletrônica
-- Instalação de DVRs, câmeras, alarmes e fechaduras eletrônicas
+Capacidade comprovada em diagnósticos e suporte técnico, além de conhecimento prático em eletrônica aplicada e integração de sistemas. Com perfil analítico, autodidata e orientado a resultados, está em constante evolução técnica.
+
+---
+
+## Competências Técnicas
+
+### Redes e Infraestrutura
+- Administração de redes (LAN/WAN)
+- Gerenciamento de servidores, switches e roteadores
+- Cabeamento estruturado e organização de rack
+- Diagnóstico e manutenção de rede
+
+### Segurança Eletrônica
+- Instalação e configuração de câmeras (DVR/NVR)
+- Sistemas de alarme e fechaduras eletrônicas
 - Integração com redes IP
 
-### 🧰 Automação e Eletrônica
-- Programação com Arduino
-- Protótipos com sensores e relés
-- Conhecimentos de eletrônica básica
+### Eletrônica e Automação
+- Montagem de protótipos com Arduino e sensores
+- Lógica de controle com relés e microcontroladores
+- Conhecimento de eletrônica básica aplicada a projetos
 
-### 💻 Desenvolvimento Web e Programação
-- PHP com padrão MVC
-- HTML, CSS e JavaScript (básico)
-- Python com foco em lógica, POO, módulos e debug
+### Desenvolvimento e Ferramentas
+- Programação com PHP (MVC)
+- HTML, CSS e JavaScript (nível básico)
+- Conhecimentos introdutórios em Python e lógica de programação
+- Uso de Git, GitHub, VS Code e terminal (Git Bash, CMD, PowerShell)
 
-### 🛠️ Ferramentas
-- Git e GitHub (uso real em projetos)
-- VS Code / Windsurf Editor (com debug configurado)
-- Git Bash, CMD, PowerShell
-
----
-
-## 🚀 Aprendizado Atual
-
-- 📘 Curso Udemy: [Python 3 - Do Zero ao Avançado](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
-- Organização de projetos no GitHub
-- Início com Flask (em breve)
+### Automação com VBA no Excel
+Desenvolvo soluções em VBA para automatização de rotinas em planilhas Excel, otimizando fluxos de trabalho que antes eram manuais e repetitivos. As ferramentas criadas permitem a integração entre diferentes arquivos, validação de dados, geração automática de relatórios e preenchimento inteligente de campos. O foco é reduzir o tempo operacional e proporcionar maior disponibilidade para análise estratégica e tomada de decisões.
 
 ---
 
-## 📊 Progresso Visual
+## Projetos e Experiência Complementar
 
-![Progresso do curso](https://geps.dev/progress/25)
-
----
-
-## 📂 Repositórios em Destaque
-
-- [📘 curso-python](https://github.com/cesarpsalves/curso-python) – Estudos, anotações e desafios por aula.
+- Desenvolvimento de sistemas internos com PHP e banco de dados
+- Projetos pessoais com Arduino voltados para automação residencial
+- Reestruturação de redes em pequenos negócios e integração com sistemas de segurança
+- Criação de dashboards e rotinas automatizadas em Excel com VBA
 
 ---
 
-<h2 align="center">🚀 Tecnologias</h2>
+## Contato
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="60" alt="Arduino" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="VS Code" />
-</p>
-
----
-
-## 🧠 Frase que me inspira
-
-> “Aprender nunca é demais. Cada commit é um passo em direção ao domínio.”
-
----
-
-## ✉️ Contato
-
-📧 **Email:** paulo.agoravai@gmail.com  
+📧 **Email:** pca_paulo@hotmail.com  
 📍 **Localização:** Recife - PE, Brasil
