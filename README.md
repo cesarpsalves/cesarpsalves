@@ -1,59 +1,39 @@
-# Paulo Cesar da Silva Alves
+# Paulo Alves
 
-**Administrador de Redes • Infraestrutura • Automação • VBA Excel • Segurança Eletrônica**
+**Desenvolvedor Full Stack | Especialista em Automação e Sistemas**
 
-📍 Recife - PE, Brasil  
-📧 pca_paulo@hotmail.com
+Trabalho há mais de 10 anos resolvendo problemas complexos de infraestrutura, redes e segurança eletrônica. Essa bagagem me deu uma visão clara de como sistemas críticos devem operar: com estabilidade, segurança e eficiência. Atualmente, aplico esses mesmos princípios no desenvolvimento de softwares Full Stack.
 
----
-
-## Perfil Profissional
-
-Profissional com mais de 10 anos de experiência em infraestrutura de redes, segurança eletrônica e suporte técnico. Atuação sólida em ambientes corporativos, realizando administração de redes, implantação de sistemas de automação, instalação de dispositivos de segurança e desenvolvimento de soluções práticas para otimização de processos.
-
-Capacidade comprovada em diagnósticos e suporte técnico, além de conhecimento prático em eletrônica aplicada e integração de sistemas. Com perfil analítico, autodidata e orientado a resultados, está em constante evolução técnica.
+Minha transição para o desenvolvimento de software une o conhecimento profundo de hardware e infra aos sistemas modernos de alta escala. Meu foco está em construir ferramentas que automatizam processos e criam valor real para o usuário final.
 
 ---
 
-## Competências Técnicas
+### Experiência Técnica
 
-### Redes e Infraestrutura
-- Administração de redes (LAN/WAN)
-- Gerenciamento de servidores, switches e roteadores
-- Cabeamento estruturado e organização de rack
-- Diagnóstico e manutenção de rede
-
-### Segurança Eletrônica
-- Instalação e configuração de câmeras (DVR/NVR)
-- Sistemas de alarme e fechaduras eletrônicas
-- Integração com redes IP
-
-### Eletrônica e Automação
-- Montagem de protótipos com Arduino e sensores
-- Lógica de controle com relés e microcontroladores
-- Conhecimento de eletrônica básica aplicada a projetos
-
-### Desenvolvimento e Ferramentas
-- Programação com PHP (MVC)
-- HTML, CSS e JavaScript (nível básico)
-- Conhecimentos introdutórios em Python e lógica de programação
-- Uso de Git, GitHub, VS Code e terminal (Git Bash, CMD, PowerShell)
-
-### Automação com VBA no Excel
-Desenvolvo soluções em VBA para automatização de rotinas em planilhas Excel, otimizando fluxos de trabalho que antes eram manuais e repetitivos. As ferramentas criadas permitem a integração entre diferentes arquivos, validação de dados, geração automática de relatórios e preenchimento inteligente de campos. O foco é reduzir o tempo operacional e proporcionar maior disponibilidade para análise estratégica e tomada de decisões.
+| Área | Tecnologias que utilizo no dia a dia |
+| :--- | :--- |
+| **Frontend** | React, Next.js, Tailwind CSS, TypeScript, Framer Motion |
+| **Backend** | Python (Flask/FastAPI), Node.js, Automação de Infraestrutura |
+| **Database** | PostgreSQL, Supabase, SQLite |
+| **DevOps** | Docker, Nginx, Traefik, CI/CD, Git |
 
 ---
 
-## Projetos e Experiência Complementar
+### Projetos Selecionados
 
-- Desenvolvimento de sistemas internos com PHP e banco de dados
-- Projetos pessoais com Arduino voltados para automação residencial
-- Reestruturação de redes em pequenos negócios e integração com sistemas de segurança
-- Criação de dashboards e rotinas automatizadas em Excel com VBA
+#### [Site Institucional & Portfólio](https://github.com/cesarpsalves/pauloalves-main)
+Desenvolvimento completo utilizando Next.js 14, animações fluidas e arquitetura moderna. Focado em performance e SEO.
+
+#### [Sistema de Gestão de Compras](https://github.com/cesarpsalves/sistema_compras)
+Sistema Full Stack em Python para controle de suprimentos. Integração completa entre backend e banco de dados relacional.
 
 ---
 
-## Contato
+### Contato
+- 🌐 [pauloalves.dev](https://pauloalves.dev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/paulo-alves/)
+- 📧 [pca_paulo@hotmail.com](mailto:pca_paulo@hotmail.com)
 
-📧 **Email:** pca_paulo@hotmail.com  
-📍 **Localização:** Recife - PE, Brasil
+---
+
+![Meus Status no GitHub](https://github-readme-stats.vercel.app/api?username=cesarpsalves&show_icons=true&theme=radical)
