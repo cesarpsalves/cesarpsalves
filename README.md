@@ -31,7 +31,7 @@ Sistema Full Stack em Python para controle de suprimentos. Integração completa
 
 ### Contato
 - 🌐 [pauloalves.dev](https://pauloalves.dev)
-- 💼 [LinkedIn](https://www.linkedin.com/in/pauloalvesdev/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pauloalvesdev)
 - 📧 [pca_paulo@hotmail.com](mailto:pca_paulo@hotmail.com)
 
 ---
